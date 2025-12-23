@@ -1,4 +1,4 @@
-# Novel Modelling of High-frequency Stock Trading Data
+# Modelling tidal dynamics and spatial variability on fecal coliform contamination along coasts of Canada
 ---
 
 ## About this Project
